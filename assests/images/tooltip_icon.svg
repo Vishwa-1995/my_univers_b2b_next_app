@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.168" height="21.168" viewBox="0 0 21.168 21.168">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#02b3bd"/>
+      <stop offset="1" stop-color="#00868e"/>
+    </linearGradient>
+  </defs>
+  <path id="tooltip_icon" d="M22.866,11.835,13.338,2.307a1.054,1.054,0,0,0-1.493,0L2.317,11.835a1.054,1.054,0,0,0,0,1.493l9.528,9.528a1.054,1.054,0,0,0,1.493,0l9.528-9.528a1.054,1.054,0,0,0,0-1.493Zm-8.162,3.4V12.587H10.469V14.7a1.059,1.059,0,1,1-2.117,0V11.528A1.062,1.062,0,0,1,9.41,10.47H14.7V7.823l3.335,3.335a.524.524,0,0,1,0,.752Z" transform="translate(-2.008 -1.997)" fill="url(#linear-gradient)"/>
+</svg>

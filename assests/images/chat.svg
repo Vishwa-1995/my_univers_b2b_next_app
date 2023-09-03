@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="chat" transform="translate(21235 72)">
+    <g id="chat-3-line" transform="translate(-21235 -72)">
+      <path id="Path_66155" data-name="Path 66155" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_66156" data-name="Path 66156" d="M7.291,20.824,2,22l1.176-5.291a9.995,9.995,0,1,1,4.115,4.115Zm.29-2.113.653.35A8,8,0,1,0,4.94,15.766l.349.653-.655,2.947,2.947-.655Z" fill="#fff"/>
+    </g>
+    <g id="Group_30294" data-name="Group 30294">
+      <circle id="Ellipse_588" data-name="Ellipse 588" cx="1" cy="1" r="1" transform="translate(-21228 -61)" fill="#fff"/>
+      <circle id="Ellipse_589" data-name="Ellipse 589" cx="1" cy="1" r="1" transform="translate(-21224 -61)" fill="#fff"/>
+      <circle id="Ellipse_590" data-name="Ellipse 590" cx="1" cy="1" r="1" transform="translate(-21220 -61)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

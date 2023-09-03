@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="81" height="81" viewBox="0 0 81 81">
+  <defs>
+    <filter id="circle" x="0" y="0" width="81" height="81" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#6d6d6d" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cb1b5f"/>
+      <stop offset="1" stop-color="#ff655b"/>
+    </linearGradient>
+  </defs>
+  <g id="close" transform="translate(-108 -679)">
+    <g transform="matrix(1, 0, 0, 1, 108, 679)" filter="url(#circle)">
+      <g id="circle-2" data-name="circle" transform="translate(9 6)" fill="#fff" stroke="#dd345e" stroke-width="2">
+        <circle cx="31.5" cy="31.5" r="31.5" stroke="none"/>
+        <circle cx="31.5" cy="31.5" r="30.5" fill="none"/>
+      </g>
+    </g>
+    <path id="close-2" data-name="close" d="M13.4,12l6.3-6.3a.99.99,0,1,0-1.4-1.4L12,10.6,5.7,4.3A.99.99,0,0,0,4.3,5.7L10.6,12,4.3,18.3A.908.908,0,0,0,4,19a.945.945,0,0,0,1,1,.908.908,0,0,0,.7-.3L12,13.4l6.3,6.3a.967.967,0,0,0,1.4,0,.967.967,0,0,0,0-1.4Z" transform="translate(137 705)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

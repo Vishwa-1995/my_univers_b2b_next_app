@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.84" height="40.609" viewBox="0 0 22.84 40.609">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#02b3bd"/>
+      <stop offset="1" stop-color="#00868e"/>
+    </linearGradient>
+  </defs>
+  <path id="pubs_clubs" d="M33.137,36.8H29.964V27.5A11.468,11.468,0,0,0,38.8,15.276L37.539,1.15A1.254,1.254,0,0,0,36.294,0H18.561a1.26,1.26,0,0,0-1.25,1.15L16.053,15.276a11.48,11.48,0,0,0,8.836,12.23v9.3H21.714a3.17,3.17,0,0,0-3.173,3.173.639.639,0,0,0,.635.635h16.5a.639.639,0,0,0,.635-.635A3.169,3.169,0,0,0,33.137,36.8ZM20.9,3.807H33.955l.562,6.345H20.334Z" transform="translate(-16.005)" fill="url(#linear-gradient)"/>
+</svg>

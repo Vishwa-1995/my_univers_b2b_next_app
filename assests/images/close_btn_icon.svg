@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="close" transform="translate(-737 -4553)">
+    <g id="close-2" data-name="close">
+      <g id="Rectangle_53" data-name="Rectangle 53" transform="translate(737 4553)" fill="#fff" stroke="#e3e3e3" stroke-width="1">
+        <rect width="30" height="30" rx="15" stroke="none"/>
+        <rect x="0.5" y="0.5" width="29" height="29" rx="14.5" fill="none"/>
+      </g>
+      <path id="close_3_" data-name="close (3)" d="M7.037,7.037a.954.954,0,0,0,0,1.349l3.372,3.372L7.037,15.129a.954.954,0,1,0,1.349,1.349l3.372-3.372,3.372,3.372a.954.954,0,1,0,1.349-1.349l-3.372-3.372,3.372-3.372a.954.954,0,0,0-1.349-1.349l-3.372,3.372L8.385,7.037A.954.954,0,0,0,7.037,7.037Z" transform="translate(740.242 4556.243)"/>
+    </g>
+  </g>
+</svg>

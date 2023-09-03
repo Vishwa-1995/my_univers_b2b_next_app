@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="331.2" height="515.676" viewBox="0 0 331.2 515.676">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-1.15" y1="1.315" x2="-1.15" y2="1.313" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21212c"/>
+      <stop offset="1" stop-color="#141314"/>
+    </linearGradient>
+  </defs>
+  <g id="login_shape" transform="translate(-382.282 -403.334)">
+    <path id="shape02" d="M436.418,919.007A50.248,50.248,0,0,1,386.234,868.7V558.257a50.323,50.323,0,0,1,30.714-46.383c.892-.6,1.4-.908,1.4-.908l222.286-98.25a50.084,50.084,0,0,1,4.831-2.135l.494-.219h.092a50.2,50.2,0,0,1,67.383,47.277V868.7a50.248,50.248,0,0,1-50.184,50.309Z" fill="#2d2d37"/>
+    <g id="Group_29869" data-name="Group 29869">
+      <path id="shape01-2" d="M450.491,406.4h.09l.484.213a50.413,50.413,0,0,1,4.919,2.169l224.987,99.2s.517.313,1.421.917a50.813,50.813,0,0,1,31.09,46.831V868.21a50.8,50.8,0,0,1-50.8,50.8h-229.6a50.8,50.8,0,0,1-50.8-50.8V454.043A50.833,50.833,0,0,1,450.491,406.4Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

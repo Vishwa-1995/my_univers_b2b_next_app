@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#02b3bd"/>
+      <stop offset="1" stop-color="#00868e"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_500" data-name="Rectangle 500" width="20" height="20" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="send" transform="translate(-294 -624)">
+    <circle id="Ellipse_85" data-name="Ellipse 85" cx="25" cy="25" r="25" transform="translate(294 624)" fill="url(#linear-gradient)"/>
+    <g id="send_1_" data-name="send (1)" transform="translate(309 639)" clip-path="url(#clip-path)">
+      <path id="Path_30023" data-name="Path 30023" d="M3.971,14.65,9.89,13.466c.529-.106.529-.277,0-.383L3.971,11.9a1.056,1.056,0,0,1-.766-.766L2.021,5.214c-.106-.529.206-.775.7-.549L20.779,13c.326.151.326.4,0,.546L2.716,21.884c-.49.226-.8-.02-.7-.549L3.2,15.416A1.056,1.056,0,0,1,3.971,14.65Z" transform="translate(-1.63 -2.894)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

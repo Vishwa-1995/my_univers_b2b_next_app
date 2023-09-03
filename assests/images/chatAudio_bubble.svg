@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="237" height="54" viewBox="0 0 237 54">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#02b3bd"/>
+      <stop offset="1" stop-color="#00868e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" y1="0.5" x2="0" y2="0.5" xlink:href="#linear-gradient"/>
+    <filter id="Ellipse_470" x="96" y="14" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="chatAudio_bubble" transform="translate(-646 -276)">
+    <path id="Rectangle_5772" data-name="Rectangle 5772" d="M20,0H217a20,20,0,0,1,20,20V34a20,20,0,0,1-20,20H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(646 276)" fill="#ebebeb"/>
+    <path id="play_2_" data-name="play (2)" d="M10.5,27.988a1.284,1.284,0,0,1-.791-.283A2.057,2.057,0,0,1,9,26.089V10.9a2.054,2.054,0,0,1,.712-1.616A1.242,1.242,0,0,1,11.175,9.2l12.025,7.6a2.154,2.154,0,0,1,0,3.4l-12.025,7.6A1.259,1.259,0,0,1,10.5,27.988Z" transform="translate(657 285)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_5773" data-name="Rectangle 5773" width="162" height="4" rx="2" transform="translate(701 301)" fill="#fff"/>
+    <rect id="Rectangle_5774" data-name="Rectangle 5774" width="54" height="4" rx="2" transform="translate(701 301)" fill="url(#linear-gradient-2)"/>
+    <g transform="matrix(1, 0, 0, 1, 646, 276)" filter="url(#Ellipse_470)">
+      <g id="Ellipse_470-2" data-name="Ellipse 470" transform="translate(105 23)" fill="#00b4bd" stroke="#fff" stroke-width="1">
+        <circle cx="4" cy="4" r="4" stroke="none"/>
+        <circle cx="4" cy="4" r="3.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

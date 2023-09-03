@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="213" height="118" viewBox="0 0 213 118">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1.14" y2="1.111" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ef0b0b"/>
+      <stop offset="0.122" stop-color="#7d2a06"/>
+      <stop offset="0.879" stop-color="#280164"/>
+      <stop offset="1" stop-color="#640140"/>
+    </linearGradient>
+  </defs>
+  <g id="mastercard" transform="translate(0.087 0.087)">
+    <rect id="Card_surface" data-name="Card surface" width="213" height="118" rx="12" transform="translate(-0.087 -0.087)" fill="url(#linear-gradient)"/>
+    <rect id="Gousian_Layer" data-name="Gousian Layer" width="213" height="118" rx="12" transform="translate(-0.087 -0.087)" fill="rgba(255,255,255,0.03)"/>
+    <path id="Effect" d="M20,118A20,20,0,0,1,0,98V20A20,20,0,0,1,20,0H59.193a6.378,6.378,0,1,1,0,12.757H35.424v6.378h72.005a6.378,6.378,0,0,1,0,12.757H35.424V38.27H82.558a6.379,6.379,0,0,1,0,12.757H35.424v6.378h111.2a6.378,6.378,0,0,1,0,12.757H35.424v6.378H122.5a6.378,6.378,0,1,1,0,12.757H35.424v6.378H56.179a6.378,6.378,0,1,1,0,12.757H35.424v6.378H72.006A6.375,6.375,0,0,1,77.531,118Z" transform="translate(-0.087 -0.087)" fill="rgba(255,255,255,0.04)"/>
+    <text id="Number" transform="translate(15.913 87.913)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">xxxx - xxxx - xxxx - x089</tspan></text>
+    <text id="Put_Name_Here" data-name="Put Name Here" transform="translate(15.913 71.913)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">Sebin Francis</tspan></text>
+    <text id="Credit_Text" data-name="Credit Text" transform="translate(15.913 17.913)" fill="#fff" font-size="14" font-family="Ubuntu-Medium, Ubuntu" opacity="0.9" font-weight="500"><tspan x="0" y="13">Credit Card</tspan></text>
+    <g id="Logo" transform="translate(166.859 21.073)">
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="9.532" cy="9.532" rx="9.532" ry="9.532" transform="translate(0 0)" fill="#eb001b"/>
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="9.532" cy="9.532" rx="9.532" ry="9.532" transform="translate(11.439 0)" fill="#f79e1b"/>
+      <path id="Intersect" d="M0,7.626A8.8,8.8,0,0,1,4.4,0,8.8,8.8,0,0,1,8.8,7.626a8.8,8.8,0,0,1-4.4,7.626A8.8,8.8,0,0,1,0,7.626Z" transform="translate(10.85 1.907)" fill="#ff5f00"/>
+    </g>
+  </g>
+</svg>
